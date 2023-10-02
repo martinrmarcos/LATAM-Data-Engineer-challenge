@@ -36,8 +36,12 @@ En el archivo encontrarás un conjunto aproximado de 389MBs. Se pide calcular lo
 
 In this repository you will find the responses to the above excersice as follows:
 
-LATAMTest.ipynb --> The main execution with all the results
-tweetprocessclass.py --> The different functions created to perform all tasks
-tweetprocessclassEXPLAINED.ipynb --> All the functions explained step by step
-docker-compose.yml --> docker compose required to generate a DB for the added steps
-tweets-json.json --> list of tweets
+LATAMTest.ipynb: The main execution with all the results.
+
+tweetprocessclass.py: The different functions created to perform all tasks.
+
+tweetprocessclassEXPLAINED.ipynb: All the functions explained step by step.
+
+docker-compose.yml: docker compose required to generate a DB for the added steps.
+
+tweets-json.json.zip: list of tweets as zip in order to be able to upload it to GitHub.
