@@ -1,0 +1,13 @@
+
+
+version: '3.8'
+services:
+  postgres:
+    image: postgres
+    container_name: LATAMTweet-dockercompose
+    environment:
+      POSTGRES_DB: LATAMDB
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Latam2023
+    ports:
+      - "5432:5432"
