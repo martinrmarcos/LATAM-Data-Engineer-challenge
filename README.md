@@ -45,3 +45,17 @@ tweetprocessclassEXPLAINED.ipynb: All the functions explained step by step.
 docker-compose.yml: docker compose required to generate a DB for the added steps.
 
 tweets-json.json.zip: list of tweets as zip in order to be able to upload it to GitHub.
+
+
+
+Requirements:
+
+Python v 3.0
+Anaconda Jupyter notebooks 6.1.4 or google collab
+
+
+Implementation:
+
+Clone repository to local enviroment
+Run 'LATAMTest.ipynb' 
+
